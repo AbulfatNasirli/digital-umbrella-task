@@ -3,11 +3,11 @@
 <br>
 
 ## Table of contents
- <li> <a href>General Info </a> </li>
-<li> <a href="">Technologies </a> </li>
-<li> <a href="">Setup</a> </li>  <br>
+ <li> General Info </li>
+<li> Technologies </li>
+<li> Setup</li> 
 
-## General Info
+##  General Info 
 This project aims to parse XML data into a JSON object and is written using Spring Boot.<br>
 The Central Bank of the Republic of Azerbaijan publicly publishes the official exchange rates of foreign currencies and bank metals against the Azerbaijani manat on the selected date as a bulletin.
 The published bulletin is available from the link below
