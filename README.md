@@ -1,5 +1,4 @@
 # digital-umbrella-task <br>
-sd
 <br>
 
 ## Table of contents
