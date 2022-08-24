@@ -1,5 +1,4 @@
 # digital-umbrella-task <br>
-<br>
 
 ## Table of contents
  <li> General Info </li>
