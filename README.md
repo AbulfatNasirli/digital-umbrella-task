@@ -14,10 +14,10 @@ The published bulletin is available from the link below
 <a href="https://www.cbar.az/currencies/25.05.2022.xml"> Google Link </a>
 project via this link
 
- ### With the app we can
-<li>Obtaining the exchange rate of the Azerbaijani manat against the selected currency on the selected date </li>
-<li>Acquisition of exchange rates of Azerbaijani manat against all foreign currencies on the selected date </li>
-<li>Acquisition of exchange rates of Azerbaijani manat against selected foreign currency for all dates </li>  <br>
+ ### With this app we can
+<li>Obtain the exchange rate of the Azerbaijani manat against the selected currency on the selected date </li>
+<li>Acquire  exchange rates of Azerbaijani manat against all foreign currencies on the selected date </li>
+<li>Acquire  exchange rates of Azerbaijani manat against selected foreign currency for all dates </li>  <br>
 
 ## Technologies
  Project is created with:
