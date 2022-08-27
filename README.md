@@ -9,7 +9,7 @@
 This project aims to parse XML data into a JSON object and is written using Spring Boot.<br>
 The Central Bank of the Republic of Azerbaijan publicly publishes the official exchange rates of foreign currencies and bank metals against the Azerbaijani manat on the selected date as a bulletin.
 The published bulletin is available from the link below
-<a href="https://www.cbar.az/currencies/25.05.2022.xml"> Google Link </a>
+<a href="https://www.cbar.az/currencies/25.05.2022.xml">Link </a>
 project via this link
 
  ### With this app we can
