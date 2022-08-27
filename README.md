@@ -24,9 +24,6 @@ project via this link
 <li>MsSQL</li>
 
 ## Setup
-To run this project, install it locally using git clone <br>
-`git clone repo-url` 
-
 To run this project, install it locally using git clone: cd to project directory then run following <br>
  `./mvnw spring-boot:run ` 
 
