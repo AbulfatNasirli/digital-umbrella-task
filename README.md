@@ -20,11 +20,16 @@ project via this link
 ## Technologies
  Project is created with:
 <li>JDK: 8 </li>
-<li>Gradle </li>
+<li>Maven</li>
+<li>MsSQL</li>
 
 ## Setup
 To run this project, install it locally using git clone <br>
 `git clone repo-url` 
+
+To run this project, install it locally using git clone: cd to project directory then run following
+ `./mvnw spring-boot:run ` 
+
 
 
 
